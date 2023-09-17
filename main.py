@@ -1,17 +1,29 @@
-# This is a sample Python script.
+def add(x,y):
+          total=x+y
+          print(total)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+num1 = int (input("enter num 1"))
+num2 = int (input("enter num 2"))
+add(num1,num2)
+###########
+def sub(x, y):
+    total = x - y
+    print(total)
+num1 = int(input("enter num 1"))
+num2 = int(input("enter num 2"))
+sub(num1, num2)
+#######
+def mul(x, y):
+    total = x * y
+    print(total)
+num1 = int(input("enter num 1"))
+num2 = int(input("enter num 2"))
+mul(num1, num2)
+##########
+def div(x, y):
+    total = x / y
+    print(total)
+x = int(input("enter num 1"))
+y = int(input("enter num 2"))
+div(x, y)
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-print('haneen')
-print("owimer")
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
