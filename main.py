@@ -1,4 +1,5 @@
 first solu
+
 operator=input("please enter ur operator: ")
 num1=int (input("enter num 1: "))
 num2=int (input("enter num 2: "))
