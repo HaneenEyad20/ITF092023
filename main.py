@@ -6,9 +6,9 @@ if operator=="+" : print(num1+num2)
 if operator=="-":print(num1 - num2)
 if operator=="*" : print(num1*num2)
 if operator=="/" : print(num1/num2)
-
+###########
 second solu
-
+###########
 def add(x,y):
           total=x+y
           print(total)
