@@ -1,3 +1,14 @@
+first solu
+operator=input("please enter ur operator: ")
+num1=int (input("enter num 1: "))
+num2=int (input("enter num 2: "))
+if operator=="+" : print(num1+num2)
+if operator=="-":print(num1 - num2)
+if operator=="*" : print(num1*num2)
+if operator=="/" : print(num1/num2)
+
+second solu
+
 def add(x,y):
           total=x+y
           print(total)
