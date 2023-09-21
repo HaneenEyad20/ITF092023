@@ -9,7 +9,7 @@ def sub_num(a, b):
 def mul_num(a, b):
     return a * b
 
-def div_numb(a, b):
+def div_num(a, b):
     if b != 0:
         return a / b
     else:
