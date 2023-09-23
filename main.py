@@ -77,7 +77,6 @@ def menu():
             break
         else:
             print("Invalid choice, Please try again")
-
-    menu()
+ menu()
 
 
